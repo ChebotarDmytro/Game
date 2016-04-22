@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>  
+    <file alias="x.png">images/x.png</file>
+    <file alias="o.png">images/o.png</file>
+    <file>main.qml</file>
+</qresource>
+</RCC>
